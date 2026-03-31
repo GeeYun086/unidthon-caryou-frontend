@@ -35,6 +35,10 @@ AI 기반 커리어 관리 플랫폼입니다.
 | 정지윤 | [GeeYun086](https://github.com/GeeYun086) | 아이디어 기획, UI 디자인, 메인페이지/마이페이지/커뮤니티 구현, AI 및 백엔드 연동 |
 | 김진평 | [krong12](https://github.com/krong12) | 회원가입 & 직무 설정 구현 |
 
+<br>
+
+> [CarYou 프로젝트 설명 및 전체 팀원 소개 바로 가기](https://github.com/2025-UniD-Hackathon-Team6)
+
 <br><br><br>
 
 ## ✨ 핵심 기능
